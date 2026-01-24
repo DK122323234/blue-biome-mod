@@ -6,7 +6,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class BlueBiomeMod implements ModInitializer {
-   public static final String MODID = "blue_biome";
+   public static final String MODID = "blue_biome_mod";
     public static final Logger LOGGER = LoggerFactory.getLogger(MODID);
 
     @Override
